@@ -1,8 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>EasySwipe Updates</title>
-    <link>https://github.com/shortcutchris/easyswipe-releases/releases</link>
-    <description>Official update feed for EasySwipe.</description>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EasySwipe Updates</title>
+        <link>https://github.com/shortcutchris/easyswipe-releases/releases</link>
+        <description>Official update feed for EasySwipe.</description>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 18 Aug 2026 12:33:55 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# EasySwipe 0.1.0
+
+The first public EasySwipe release brings fast title-bar window gestures to macOS.
+
+- Swipe left or right to fill the corresponding screen half.
+- Swipe down to minimize the window.
+- Swipe up to maximize within the usable desktop area without entering full screen.
+- See immediate cursor-adjacent visual feedback while swiping.
+- Use a trackpad, Magic Trackpad, or Apple Magic Mouse.
+- Run entirely from the menu bar with English and German localization.
+- Keep Accessibility permission across signed updates.
+- Receive signed in-app updates through Sparkle.
+]]></description>
+            <enclosure url="https://github.com/shortcutchris/easyswipe-releases/releases/download/v0.1.0/EasySwipe-0.1.0-8.zip" length="3834939" type="application/octet-stream" sparkle:edSignature="nrb7JOfewu+5Gif2fettzT6SjvAxfMG0Ps5GKTtNtgTB9tdytZhe86w3yu+xwgR5yb+Wc5yYTwkVn/SHCWrgBA=="/>
+        </item>
+    </channel>
 </rss>
