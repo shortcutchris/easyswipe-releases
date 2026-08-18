@@ -21,7 +21,7 @@ This compatibility update broadens title-bar gesture support across native and c
 - Respect application-enforced minimum, maximum, and fixed window sizes while preserving successful position or size changes.
 - Keep full-height left, right, and maximize placement across usable display areas.
 ]]></description>
-            <enclosure url="https://github.com/shortcutchris/easyswipe-releases/releases/download/v0.1.2/EasySwipe-0.1.2-10.zip" length="3856948" type="application/octet-stream" sparkle:edSignature="bMuhQhUd3UH70g7PEtGK3m4PhPuHrCDixPsvkZWcPg5sdKjxFq376FogBRPE3SFZ+GzDkupTIaeO9uyz45pZBA=="/>
+            <enclosure url="https://github.com/shortcutchris/easyswipe-releases/releases/download/v0.1.2/EasySwipe-0.1.2-10.zip" length="3856966" type="application/octet-stream" sparkle:edSignature="Y5t5suDLN2AuxwxqvbDbSDLikXJd+5n5Z+DQ8zGE+lgqgTzRR5TcMaykuOiSP9PQZ/tzdB63OVdKDinAiWHIDQ=="/>
         </item>
         <item>
             <title>0.1.1</title>
