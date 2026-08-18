@@ -5,6 +5,23 @@
         <link>https://github.com/shortcutchris/easyswipe-releases/releases</link>
         <description>Official update feed for EasySwipe.</description>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 18 Aug 2026 20:30:32 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# EasySwipe 0.1.1
+
+This maintenance update makes left- and right-half gestures more reliable across displays, display scaling modes, and applications with custom Accessibility behavior.
+
+- Apply window size before and after positioning so macOS cannot retain a constrained height from the previous display.
+- Work around `AXEnhancedUserInterface` while resizing affected applications.
+- Verify that a window reached the complete requested frame and perform one bounded correction when needed.
+- Preserve the full usable vertical screen height for left, right, and maximize gestures.
+]]></description>
+            <enclosure url="https://github.com/shortcutchris/easyswipe-releases/releases/download/v0.1.1/EasySwipe-0.1.1-9.zip" length="3845155" type="application/octet-stream" sparkle:edSignature="LMYAspZ3vOdHl/Ha0DfWjxybkM4TDBLuQ9qiSMvA2/3daW5GJVXsa1hPf3R7UlsDT8UWE7gCE0GWZtPD9FL6BQ=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 18 Aug 2026 12:33:55 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
