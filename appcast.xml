@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>EasySwipe Updates</title>
+    <link>https://github.com/shortcutchris/easyswipe-releases/releases</link>
+    <description>Official update feed for EasySwipe.</description>
+  </channel>
+</rss>
