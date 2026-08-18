@@ -5,6 +5,25 @@
         <link>https://github.com/shortcutchris/easyswipe-releases/releases</link>
         <description>Official update feed for EasySwipe.</description>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Tue, 18 Aug 2026 21:39:00 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# EasySwipe 0.1.2
+
+This compatibility update broadens title-bar gesture support across native and custom macOS windows, including Notion and other Electron- or Chromium-based apps.
+
+- Recognize noninteractive web, toolbar, tab-group, list, and scroll containers as valid parts of a custom title bar.
+- Walk deeper Accessibility hierarchies while still blocking real buttons, tabs, fields, selectable rows, and custom controls with activation actions.
+- Ignore sheets, popovers, menus, tooltips, system dialogs, and borderless overlays that do not provide a dependable title bar.
+- Support titled dialog and utility windows when they expose valid macOS title-bar semantics.
+- Respect application-enforced minimum, maximum, and fixed window sizes while preserving successful position or size changes.
+- Keep full-height left, right, and maximize placement across usable display areas.
+]]></description>
+            <enclosure url="https://github.com/shortcutchris/easyswipe-releases/releases/download/v0.1.2/EasySwipe-0.1.2-10.zip" length="3856948" type="application/octet-stream" sparkle:edSignature="bMuhQhUd3UH70g7PEtGK3m4PhPuHrCDixPsvkZWcPg5sdKjxFq376FogBRPE3SFZ+GzDkupTIaeO9uyz45pZBA=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Tue, 18 Aug 2026 20:30:32 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
