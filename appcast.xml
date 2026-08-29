@@ -5,6 +5,23 @@
         <link>https://github.com/shortcutchris/easyswipe-releases/releases</link>
         <description>Official update feed for EasySwipe.</description>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Sat, 29 Aug 2026 14:25:16 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Swindoo 0.1.5
+
+This compatibility update adds reliable gestures across Finder's unified title and toolbar surface.
+
+- Use Finder's measured Accessibility toolbar frame instead of a fixed enlarged gesture zone.
+- Accept the full noninteractive Finder toolbar surface while keeping search, view, share, action, and other controls excluded.
+- Reject content toolbars and preserve the default title-bar boundary for every other app.
+- Retain the existing bundle identifier, Accessibility identity, and Sparkle update channel for seamless in-place updates.
+]]></description>
+            <enclosure url="https://github.com/shortcutchris/easyswipe-releases/releases/download/v0.1.5/EasySwipe-0.1.5-13.zip" length="3865984" type="application/octet-stream" sparkle:edSignature="HUNNxoSHl27EIQ2/9hnGaH+i9wghy5Lh707jr3QZA/+dh4LVlQtwypMoNvcmSH1JznFQi1JlpEunDpQlx/88Ag=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Thu, 27 Aug 2026 12:47:42 +0200</pubDate>
             <sparkle:version>12</sparkle:version>
