@@ -5,6 +5,23 @@
         <link>https://github.com/shortcutchris/easyswipe-releases/releases</link>
         <description>Official update feed for EasySwipe.</description>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Sat, 29 Aug 2026 15:20:41 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Swindoo 0.1.8
+
+This visual-feedback update adds calm, optional motion to Swindoo's cursor-adjacent action HUD.
+
+- Animate each preview and confirmation in the command direction without delaying or animating the window action itself.
+- Compress the minimize symbol toward the Dock, expand the maximize symbol, and nudge half-screen confirmations left or right.
+- Add a persistent “Show Animations” checkbox to the menu bar menu, enabled by default.
+- Disable all HUD motion when the preference is off or macOS Reduce Motion is active, while preserving immediate visual feedback.
+]]></description>
+            <enclosure url="https://github.com/shortcutchris/easyswipe-releases/releases/download/v0.1.8/EasySwipe-0.1.8-16.zip" length="3883851" type="application/octet-stream" sparkle:edSignature="HgOx55NYK+OUptZmgs8XFF8Xr7ic29ySGNHwg3KViWEPIvHwImHxpZ26QZggRx3Awwv/livvHCzVfR5OJ0igDg=="/>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Sat, 29 Aug 2026 14:50:08 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
